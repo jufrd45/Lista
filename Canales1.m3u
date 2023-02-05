@@ -1,0 +1,85 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Canales peruanos", ATV (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF: -1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/fY9256H.png" group-title="Canales peruanos", ATV+ Noticias (480p) [Not 24/7]
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF: -1 tvg-id="BestCablePeru.pe" tvg-logo="https://i.imgur.com/7aKGKsy.png" group-title="Canales peruanos", Best Cable Peru
+https://ca2.inka.net.pe/bestcable/index.m3u8
+#EXTINF: -1 tvg-id="BestCableSportsPeru.pe" tvg-logo="https://i.imgur.com/nflqmSC.png" group-title="Canales peruanos", Best Cable Sports Peru
+https://ca2.inka.net.pe/bestcablesports/index.m3u8
+#EXTINF: -1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Canales peruanos", Canal IPe
+https://cdnh75.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF: -1 tvg-id="ChicosIPe.pe" tvg-logo="https://i.imgur.com/gVu6Piu.png" group-title="Canales peruanos", Chicos IPe (1080p) [Not 24/7]
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF: -1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Canales peruanos", Congreso TV [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
+#EXTINF: -1 tvg-id="ContactoDeportivo.pe" tvg-logo="https://i.imgur.com/bBnWaq2.png" group-title="Canales peruanos", Contacto Deportivo (720p) [Not 24/7]
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF: -1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/pu0BSB7.png" group-title="Canales peruanos", Exitosa TV (720p)
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id="HuachoPeruTV.pe" tvg-logo="https://i.imgur.com/PevmfqK.png" group-title="Canales peruanos", Huacho Perú TV [Not 24/7]
+https://paneltv.rstreaminghd.net:3777/live/huachoperutvlive.m3u8
+#EXTINF: -1 tvg-id="Karibena.pe" tvg-logo="https://i.imgur.com/cgHjg1e.png" group-title="Canales peruanos", Karibeña (720p) [Not 24/7]
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id="MINEDUIPTV1.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Canales peruanos", MINEDU IPTV 1 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal1/canal11/playlist.m3u8
+#EXTINF: -1 tvg-id="MINEDUIPTV2.pe" tvg-logo="https://i.imgur.com/14nHMat.png" group-title="Canales peruanos", MINEDU IPTV 2 (320p) [Not 24/7]
+http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
+#EXTINF: -1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Canales peruanos", Panamericana TV (298p) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF: -1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Canales peruanos", Perú Channel
+https://stmv3.duvoxtv.com.br/novelapl/novelapl/playlist.m3u8
+#EXTINF: -1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Canales peruanos", Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF: -1 tvg-id="RPPTV.pe" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Canales peruanos", RPP (480p) [Not 24/7]
+http://38.131.11.9:1080/play/a0d8
+#EXTINF: -1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6io0IrX.png" group-title="Canales peruanos", TV Perú [Not 24/7]
+http://190.108.83.142:8000/play/a00i/index.m3u8
+#EXTINF: -1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="Canales peruanos", TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF: -1 tvg-id="WillaxTV.pe" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Canales peruanos", Willax TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+#EXTINF: -1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://lh3.googleusercontent.com/-KD-fsTkMuGk/XoKOALALblI/AAAAAAAAxWc/5phOwY1GlmwfZ4jq32uVem2PZRDigWSCACK8BGAsYHg/s0/2020-03-30.png" group-title="Canales peruanos", TV Peru Noticias | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id="1091" tvg-name="TVPE" tvg-logo="https://i2.paste.pics/9c375f0e9b0a20eb69fde9b9390a9adc.png" group-title="Canales peruanos", TVPE | PE
+https://cdnh79.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF: -1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Series y peliculas", Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF: -1 tvg-id="EnerGeekRetro.cl" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Series y peliculas", EnerGeek Retro (720p) [Not 24/7]
+https://stream.wifispeed.cl:3103/live/energeek1live.m3u8
+#EXTINF: -1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Series y peliculas", Locomotion TV
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF: -1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Series y peliculas", El Histonauta TV (360p)
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF: -1 tvg-id="EnerGeekAnimate.cl" tvg-logo="https://i.imgur.com/yq4K3KN.png" group-title="Series y peliculas", EnerGeek Animate (720p) [Not 24/7]
+https://stream.wifispeed.cl:3852/live/energeeklive.m3u8
+#EXTINF: -1 tvg-id="EnerGeekFanpop.cl" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series y peliculas", EnerGeek Fanpop (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF: -1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Series y peliculas", Filmstream
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-id="LatinoKids.uy" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Series y peliculas", LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF: -1 tvg-id="Novelisima.us" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series y peliculas", Novelísima [Not 24/7]
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF: -1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Series y peliculas", Pakapaka (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF: -1 tvg-id="RetroPlus2.cl" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Series y peliculas", Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF: -1 tvg-id="RetroPlus3.cl" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Series y peliculas", Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF: -1 tvg-id="RetroPlus.cl" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Series y peliculas", Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF: -1 tvg-id="SEOTVNovelas.bo" tvg-logo="https://i.imgur.com/5IPjtJk.png" group-title="Series y peliculas", SEO TV Novelas (1080p)
+https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF: -1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Series y peliculas", TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
+#EXTINF: -1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Series y peliculas", Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF: -1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Series y peliculas", Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF: -1 tvg-id="DisneyChannelSpain.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="Series y peliculas", Disney Channel España (1080p)
+http://5.255.90.184:2004/play/a006/index.m3u8
+#EXTINF: -1 tvg-id="HumorMax.ve" tvg-logo="https://i.imgur.com/bFUZwJ0.png" group-title="Comedy", Humor Max (720p)
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+#EXTINF: -1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy", SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
